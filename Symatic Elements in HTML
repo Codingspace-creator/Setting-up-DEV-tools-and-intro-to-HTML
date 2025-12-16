@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Symantic elements in HTML</title>
+
+    </head>
+    <body>
+        <header>
+            <h1>Navigational links</h1>
+            <nav>
+                <ul>
+                     <li> <a href="https://edition.cnn.com/"> Home </a> <li>
+                     <li> <a href="https://edition.cnn.com/world"> Posts </a> </li>
+                     <li> <a href="https://commercial.cnn.com/contact-us/"> Contact </a> </li>
+                    </ul>
+            </nav>
+        </header>
+        <main>
+            <article> 
+                <h1> Facts about Dogs </h1>
+                <p>Dogs have a sense of time, not by reading clocks, but
+                
+                through their internal biological clocks (circadian rhythms), memory, and awareness of routine cues, allowing them to
+                
+                anticipate meals, walks, and your return, though they experience time more in the moment than humans do. They track time
+                
+                through smells, light changes, daily routines (like mail delivery), and hunger pangs, creating a strong sense of
+                
+                predictability.</p>
+                    <figure>
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXfD7t-HwPyf6WgkKOa4Gp3sFgFypqC0xG9Q&s">
+                    </figure>
+            </article>
+        </main>
+        <footer>
+
+        </footer>
+    </body>
+</html>
